@@ -1,0 +1,6 @@
+{
+	"dbConfig": {
+		"connectionString": "mongodb://localhost/projectDB"
+	},
+	"jwtSecretKey": "My Super Secret jwt Key!(Very Secret)"
+}
